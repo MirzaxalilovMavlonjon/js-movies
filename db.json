@@ -1,0 +1,97 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altimg": "usual",
+      "title": "Plan Usual",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "elite",
+      "title": "Plan Premium",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+      "price": 15
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "post",
+      "title": "Plan VIP",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+      "price": 20
+    }
+  ],
+  "request": [
+    {
+      "name": "Mavlonjon",
+      "phone": "+998912005677",
+      "id": 1
+    },
+    {
+      "name": "Mavlonjon",
+      "phone": "+998916960729",
+      "id": 2
+    },
+    {
+      "name": "Mavlonjon",
+      "phone": "+998912005677",
+      "id": 3
+    },
+    {
+      "name": "Mavlonjon",
+      "phone": "+998912005677",
+      "id": 4
+    },
+    {
+      "name": "Mavlonjon",
+      "phone": "+998916960729",
+      "id": 5
+    },
+    {
+      "name": "Mavlonjon",
+      "phone": "+998912005677",
+      "id": 6
+    },
+    {
+      "name": "Mavlonjon",
+      "phone": "+998912005677",
+      "id": 7
+    },
+    {
+      "name": "Sirojiddin",
+      "phone": "+998 91 200 56 77",
+      "id": 8
+    },
+    {
+      "name": "Mavlonjon",
+      "phone": "+998912005677",
+      "id": 9
+    },
+    {
+      "name": "sdxgfchjjkhgf",
+      "phone": "+998 91 687 37 01",
+      "id": 10
+    },
+    {
+      "name": "Azizxon",
+      "phone": "+998916960729",
+      "id": 11
+    },
+    {
+      "name": "Azizxon",
+      "phone": "+998 (90) 344-82-10",
+      "id": 12
+    },
+    {
+      "name": "Sirojiddin",
+      "phone": "+998 91 200 56 77",
+      "id": 13
+    },
+    {
+      "name": "Mavlonjon",
+      "phone": "+998912005677",
+      "id": 14
+    }
+  ]
+}
